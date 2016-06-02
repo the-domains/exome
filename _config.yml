@@ -1,0 +1,14 @@
+layout_spectrum: 0.3723404
+color:
+  saturation: 0.3797562
+  lightness: 0.9365011
+  brandStrength: 0.4069024
+  rhythmicContrast: 0.1692396
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.3653101
+name: eXoMe
